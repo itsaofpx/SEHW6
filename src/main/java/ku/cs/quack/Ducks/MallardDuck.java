@@ -1,3 +1,4 @@
+//6510450691 Podjanin Wachirawittayakul
 package ku.cs.quack.Ducks;
 
 import ku.cs.quack.QuackQuack.Quackable;

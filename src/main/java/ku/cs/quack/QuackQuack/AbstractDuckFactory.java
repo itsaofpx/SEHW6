@@ -1,6 +1,5 @@
+//6510450691 Podjanin Wachirawittayakul
 package ku.cs.quack.QuackQuack;
-
-import ku.cs.quack.QuackQuack.Quackable;
 
 public abstract class AbstractDuckFactory {
     public abstract Quackable createMallardDuck();
